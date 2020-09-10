@@ -31,6 +31,11 @@ public class MappingDemoApplication {
 		
 		session.getTransaction().commit();
 		session.close();
+          
+
+
+
+
 
 	}
 
